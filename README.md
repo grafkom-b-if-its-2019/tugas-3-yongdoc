@@ -1,2 +1,2 @@
 # grafkomb-170128
-ini tempat yong upload web
+link : https://grafkomb-170128.azurewebsites.net/
